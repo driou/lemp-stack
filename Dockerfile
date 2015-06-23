@@ -10,4 +10,4 @@ RUN apt-get install -y nginx
  
 # Installing PHP Packages
 RUN apt-get install -y php5-fpm	
-RUN apt-get install -y php5-mysql php5-curl php5-gd php5-intl php5-json php5-mcrypt php5-mysqlnd php5-readline
+RUN apt-get install -y php5-curl php5-gd php5-intl php5-json php5-mcrypt php5-mysqlnd php5-readline
