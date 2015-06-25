@@ -4,7 +4,7 @@ upstream php5-fpm-sock {
 server {
 	listen 80 default_server;
  
-	root /usr/share/nginx/html;
+	root /usr/share/nginx/html/thelia/web/;
  
 	index index.php index.html;
  
