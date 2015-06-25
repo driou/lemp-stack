@@ -24,5 +24,4 @@ So TODO
 - Add MySQL
 - Launch services 
 - Fix user / groups rights
->>>>>>> 02f77b91d8650564669cb7fe2578d8f8ba08f074
 
