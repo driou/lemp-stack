@@ -8,12 +8,6 @@ run container :
 
 docker run -t -i -p 80:80 -v $PWD/conf/php5-fpm:/etc/php5/fpm/ -v $PWD/conf/nginx/sites-enabled:/etc/nginx/sites-enabled -v $PWD/src:/usr/share/nginx/html/thelia/web/ driou/lemp-stack /bin/bash
 
-
-
-To do when connected to container :
-service nginx start && service php5-fpm start
-
-
 To do when connected to container :
 
 service nginx start && service php5-fpm start 
