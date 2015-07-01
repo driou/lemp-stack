@@ -1,4 +1,3 @@
-# A basic debian configuration with sources
 FROM driou/debian-base
 MAINTAINER Adrien Bourroux <a.bourroux@gmail.com>
 
