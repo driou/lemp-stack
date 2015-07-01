@@ -14,10 +14,10 @@ To install Docker on your computer, please follow instructions [here](https://do
 
 git clone https://github.com/thelia/thelia
 
--> Dockerfile 			// to build container
--> conf/nginx/sites-enabled/ 	// vhost definition
--> conf/php5-fpm/ 		// php5 configuration
--> src/ 			// documentroot 
+-> Dockerfile 			// to build container  
+-> conf/nginx/sites-enabled/ 	// vhost definition  
+-> conf/php5-fpm/ 		// php5 configuration  
+-> src/ 			// documentroot   
 
 ## Build the container from GitHub repository
 
