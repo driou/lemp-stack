@@ -12,7 +12,6 @@ To install Docker on your computer, please follow instructions [here](https://do
 
 ## Installation
 
-git clone https://github.com/thelia/thelia
 
 -> Dockerfile 			// to build container  
 -> conf/nginx/sites-enabled/ 	// vhost definition  
