@@ -44,10 +44,8 @@ docker run -d -p 80:80 -v $PWD/conf/php5-fpm:/etc/php5/fpm/ -v $PWD/conf/nginx/s
 
 - direct bash with nsenter(https://github.com/jpetazzo/nsenter)
 
-TO BE FIXED
-To do when connected container is launch :
 
-So TODO
+## TODO
 - Fix user / groups rights
 - tune mysql
 - add tools (phpmyadmin, mailcatcher)
